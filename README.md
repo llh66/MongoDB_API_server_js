@@ -1,5 +1,5 @@
-# Assignment 1 - Lihua Liu
-
+# Task tracking app with MongoDB
+A server built with MongoDB and express.js.
 ## Set up and run project:
 1. npm install
 2. node .\server.js
